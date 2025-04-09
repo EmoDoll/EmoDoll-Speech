@@ -1,4 +1,25 @@
-[![PR](https://camo.githubusercontent.com/f96261621753dacf526590825b84f87ccb1db0e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5052732d77656c636f6d652d627269676874677265656e2e7376673f7374796c653d666c6174)][pullreq-url]
+# EmoDoll: AI Companion Project 💖
+
+[![Website](https://img.shields.io/badge/Website-emodoll.com-blue)](https://emodoll.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-@EmoDoll_labs-1DA1F2?logo=twitter)](https://x.com/EmoDoll_labs)
+
+> **EmoDoll** is an open-source project dedicated to researching AI emotional companions. By integrating cutting-edge technologies such as Natural Language Processing (NLP), Automatic Speech Recognition (ASR), Text-to-Speech (TTS), and Emotion Recognition, EmoDoll aims to create AI agents capable of meaningful companionship, emotional understanding, and human-like interaction.
+
+---
+
+## 🌟 Project Highlights
+
+- 🤖 **Multimodal AI**: Understands and responds to voice, text, and emotional cues
+- 🧠 **Emotion Recognition**: Accurately detects user emotions from speech input
+- 💬 **Context-Aware Dialogues**: Engages in emotional and empathetic conversations
+- 🏠 **Diverse Applications**: Virtual partners, emotional support agents, digital avatars, and more
+
+---
+
+## 🔗 Official Links
+
+- 🌐 Website: [https://emodoll.com/](https://emodoll.com/)
+- 🐦 Twitter: [https://x.com/EmoDoll_labs](https://x.com/EmoDoll_labs)
 [![MIT License][license-shield]][license-url]
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
